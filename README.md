@@ -4,11 +4,11 @@ I'm a passionate Python developer with a love for creating efficient and elegant
 
 ## 🌟 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADiBariya-username&show_icons=true&theme=radical)
 
 ## 📈 Profile Visits
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.ADiBariya)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-ADiBariya)
 
 ## 🛠️ Skills
 
