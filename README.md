@@ -26,28 +26,19 @@
 
 ---
 
-### 🎮 GitHub Stats (Now in Pixel Style)
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADiBariya&theme=tokyonight" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADiBariya&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADiBariya&theme=tokyonight" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADiBariya&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADiBariya&theme=tokyonight&utcOffset=+5.5" width="45%" />
+  <img alt="ADi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ADiBariya&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&hide_rank=false" width="48%"/>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ADiBariya&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" width="48%"/>
 </p>
 
 ---
 
-### 🌸 Profile Visits
+### 📍 Profile Visits
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FADiBariya&label=Anime+Visitors&countColor=%23f47fff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ADiBariya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
 ---
