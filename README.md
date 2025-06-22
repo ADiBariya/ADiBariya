@@ -37,10 +37,9 @@
 ### 📍 Profile Visits
 
 <p align="center">
-  <img src="[https://i.imgur.com/NhRmGQw.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F870109590492906618%2F&psig=AOvVaw3x1jRsr0F1Y-L9TKMo5AIT&ust=1750678941917000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDj_bb5hI4DFQAAAAAdAAAAABAE)" width="80" align="left" />
-  <img src="https://count.getloli.com/get/@ADiBariya?theme=rule34" alt="Profile Views" />
+  <img src="https://i.imgur.com/ZHj3KUl.gif" width="90" align="left" />
+  <img src="https://count.getloli.com/get/@ADiBariya?theme=moebooru" />
 </p>
-
 ---
 
 ### 🔗 Let's Connect
