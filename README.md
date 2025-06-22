@@ -18,7 +18,7 @@
 
 ### 🛠️ My Tech Stack
 
-- **Languages:** Python only (cuz im noob!)
+- **Languages:** Python only (cuz I'm noob!)
 - **AI/ML:** PyTorch, TensorFlow, HuggingFace, OpenCV
 - **Web:** Flask, FastAPI, HTML/CSS
 - **Tools:** Git, FFmpeg, PyQt, VS Code
@@ -29,12 +29,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADiBariya&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADiBariya&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADiBariya&layout=compact&theme=tokyonight" width="48%" />
+  <img alt="ADi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ADiBariya&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&hide_rank=false" width="48%"/>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ADiBariya&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" width="48%"/>
 </p>
 
 ---
@@ -42,13 +38,12 @@
 ### 📍 Profile Visits
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ADiBariya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ADiBariya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
 ### 🔗 Let's Connect
 
-- 💼 Check out my work here on GitHub
+- 💼 Check out my work here on GitHub  
 - 🧠 Always building, always learning!
-
