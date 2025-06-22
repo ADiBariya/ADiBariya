@@ -40,10 +40,10 @@
 ### 📍 Profile Visits
 
 <p align="center">
-  <img src="https://i.imgur.com/ZHj3KUl.gif" width="90" align="left" />
-  <img src="https://count.getloli.com/get/@ADiBariya?theme=moebooru" />
+  <a href="https://github.com/ADiBariya">
+    <img src="https://komarev.com/ghpvc/?username=ADiBariya&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Real Profile Views" />
+  </a>
 </p>
----
 
 ### 🔗 Let's Connect
 
