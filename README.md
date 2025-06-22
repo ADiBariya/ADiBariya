@@ -1,6 +1,6 @@
 # Hi there, I'm ADi! 👋
 
-I'm a passionate Python developer with a love for creating efficient and elegant code. I enjoy exploring new technologies and contributing to open-source projects.
+I'm a passionate Python developer with a love for creating efficient and elegant code. I enjoy exploring new technologies and contributing to open-source projects.created some pvt and public projects that you should like otherwise i am an editor too i edit stuffs whenever i like! Thanks!!
 
 ## 🌟 GitHub Stats
 
