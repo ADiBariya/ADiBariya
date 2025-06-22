@@ -30,7 +30,6 @@
 
 <p align="center">
   <img alt="ADi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ADiBariya&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&hide_rank=false" width="48%"/>
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ADiBariya&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" width="48%"/>
 </p>
 
 ---
@@ -38,7 +37,8 @@
 ### 📍 Profile Visits
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ADiBariya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://i.imgur.com/NhRmGQw.gif" width="80" align="left" />
+  <img src="https://count.getloli.com/get/@ADiBariya?theme=rule34" alt="Profile Views" />
 </p>
 
 ---
