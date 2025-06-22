@@ -29,9 +29,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img alt="ADi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ADiBariya&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&hide_rank=false" width="48%"/>
+  <img src="https://i.imgur.com/ZHj3KUl.gif" width="100" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADiBariya&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff9dfb&title_color=ff9dfb&text_color=cfcfcf" width="60%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ADiBariya&theme=tokyonight&hide_border=true&ring=ff9dfb&currStreakLabel=ff9dfb" width="60%" />
+</p>
 ---
 
 ### 📍 Profile Visits
