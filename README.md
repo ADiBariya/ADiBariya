@@ -29,14 +29,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://i.imgur.com/ZHj3KUl.gif" width="100" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ADiBariya&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff9dfb&title_color=ff9dfb&text_color=cfcfcf" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADiBariya&theme=tokyonight" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ADiBariya&theme=tokyonight&hide_border=true&ring=ff9dfb&currStreakLabel=ff9dfb" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADiBariya&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADiBariya&theme=tokyonight" width="45%" />
 </p>
----
 
 ### 📍 Profile Visits
 
