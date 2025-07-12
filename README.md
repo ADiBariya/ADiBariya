@@ -20,7 +20,7 @@
 
 - **Languages:** Python only (cuz I'm noob!)
 - **AI/ML:** PyTorch, TensorFlow, HuggingFace, OpenCV
-- **Web:** Flask, FastAPI, HTML/CSS
+- **Web:** Flask, FastAPI
 - **Tools:** Git, FFmpeg, PyQt, VS Code
 - **Design:** Photoshop, Premiere Pro, After Effects
 
