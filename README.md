@@ -1,7 +1,7 @@
 <h2 align="center">Adi Bariya</h2>
 
 <p align="center">
-AI & Python Developer • Building intelligent systems and creative software
+  Code krta hu bhai..!!
 </p>
 
 ---
