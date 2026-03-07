@@ -1,32 +1,61 @@
-<h2 align="center">Hey there, I'm ADi 👋</h2>
+<h2 align="center">Adi Bariya</h2>
 
 <p align="center">
-  <b>Pythonista ⚙ | AI Developer 🤖 | Editor 🎬</b><br>
-  <i>I build intelligent solutions — from powerful AI models to creative visuals.</i>
+AI & Python Developer • Building intelligent systems and creative software
 </p>
 
 ---
 
-### 🧠 About Me
+## About
 
-- 🔹 I'm a passionate **Python + AI Developer** with a love for building cool tools and solving real-world problems.
-- 🔹 I craft both **public & private projects** — from advanced AI systems to custom automation bots.
-- 🔹 I also have a flair for **video/image editing**, blending creativity with code.
-- 🔹 Love working with **PyTorch**, **OpenCV**, **Flask**, **FastAPI**, and **Stable Diffusion**.
+I am a developer focused on **Python, Artificial Intelligence, and intelligent automation systems**.  
+My work revolves around building tools that combine **machine learning, software engineering, and creative problem solving**.
 
----
+I enjoy working on projects that involve:
 
-### 🛠️ My Tech Stack
+- Artificial Intelligence systems
+- Automation tools
+- Computer vision applications
+- AI-powered creative workflows
 
-- **Languages:** Python only (cuz I'm noob!)
-- **AI/ML:** PyTorch, TensorFlow, HuggingFace, OpenCV
-- **Web:** Flask, FastAPI
-- **Tools:** Git, FFmpeg, PyQt, VS Code
-- **Design:** Photoshop, Premiere Pro, After Effects
+Alongside development, I also explore **visual design and video production**, combining technical and creative skills.
 
 ---
 
-### 📊 GitHub Stats
+## Technical Stack
+
+**Languages**
+
+- Python
+
+**AI / Machine Learning**
+
+- PyTorch
+- TensorFlow
+- HuggingFace Transformers
+- OpenCV
+
+**Backend Development**
+
+- Flask
+- FastAPI
+
+**Tools**
+
+- Git
+- FFmpeg
+- PyQt
+- VS Code
+
+**Creative Software**
+
+- Adobe Photoshop
+- Premiere Pro
+- After Effects
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADiBariya&theme=tokyonight" width="90%" />
@@ -37,15 +66,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADiBariya&theme=tokyonight" width="45%" />
 </p>
 
-### 📍 Profile Visits
+---
+
+## Profile Views
 
 <p align="center">
-  <a href="https://github.com/ADiBariya">
-    <img src="https://komarev.com/ghpvc/?username=ADiBariya&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Real Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ADiBariya&label=Profile+Views&style=flat-square" />
 </p>
 
-### 🔗 Let's Connect
+---
 
-- 💼 Check out my work here on GitHub  
-- 🧠 Always building, always learning!
+## Contact
+
+Feel free to explore my repositories or reach out for collaboration on **AI, automation, or Python-based systems**.
