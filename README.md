@@ -32,7 +32,7 @@ Alongside development, I also explore **visual design and video production**, co
 
 - PyTorch
 - TensorFlow
-- HuggingFace Transformers
+- Sci-kit
 - OpenCV
 
 **Backend Development**
@@ -43,9 +43,6 @@ Alongside development, I also explore **visual design and video production**, co
 **Tools**
 
 - Git
-- FFmpeg
-- PyQt
-- VS Code
 
 **Creative Software**
 
