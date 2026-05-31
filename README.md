@@ -34,23 +34,10 @@ Alongside development, I also explore **visual design and video production**, co
 - TensorFlow
 - Sci-kit
 - OpenCV
-
-**Backend Development**
-
-- Flask
-- FastAPI
-
+- 
 **Tools**
 
 - Git
-
-**Creative Software**
-
-- Adobe Photoshop
-- Premiere Pro
-- After Effects
-
----
 
 ## GitHub Activity
 
@@ -72,7 +59,3 @@ Alongside development, I also explore **visual design and video production**, co
 </p>
 
 ---
-
-## Contact
-
-Feel free to explore my repositories or reach out for collaboration on **AI, automation, or Python-based systems**.
