@@ -34,23 +34,6 @@ Alongside development, I also explore **visual design and video production**, co
 - TensorFlow
 - Sci-kit
 - OpenCV
-- 
-**Tools**
-
-- Git
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADiBariya&theme=tokyonight" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADiBariya&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADiBariya&theme=tokyonight" width="45%" />
-</p>
-
----
 
 ## Profile Views
 
