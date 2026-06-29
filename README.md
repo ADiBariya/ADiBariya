@@ -1,11 +1,3 @@
-<h2 align="center">Adi Bariya</h2>
-
-<p align="center">
-  Code krta hu bhai..!!
-</p>
-
----
-
 ## About
 
 I am a Dev focused on .?  
